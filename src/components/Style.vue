@@ -1,5 +1,6 @@
 <style>
-@import '../assets/vendors/weui.0.4.1.min.css';
+/*@import '../assets/vendors/weui.0.4.1.min.css';*/
+@import '../assets/vendors/weui.min.css';
 @import './1px.css';
 @import './transition.css';
 @import './reddot.css';
